@@ -14,8 +14,9 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Data+Science+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=700&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;Coding+Instructor;ML+Intern;Researcher+%26+Innovator;Problem+Solver" alt="Typing SVG" />
 </p>
+
 
 ---
 
