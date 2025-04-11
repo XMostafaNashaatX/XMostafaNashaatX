@@ -17,7 +17,6 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=700&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;Coding+Instructor;ML+Intern;Researcher+%26+Innovator;Problem+Solver" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## ⚡️ Quick Stats
@@ -57,10 +56,15 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
   </a>
 </p>
 
-<!-- WakaTime integration if you have it -->
+<!-- Replaced with a more reliable animated coding progress visualization -->
 <p align="center">
-  <a href="https://wakatime.com/@XMostafaNashaatX">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=XMostafaNashaatX&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XMostafaNashaatX&theme=radical" width="80%" alt="Contribution Summary" />
+</p>
+
+<!-- Added GitHub Skyline 3D contribution visualization reference -->
+<p align="center">
+  <a href="https://skyline.github.com/XMostafaNashaatX/2024">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20Your%203D%20Contribution%20Graph-blue?style=for-the-badge&logo=github" alt="GitHub Skyline" />
   </a>
 </p>
 
@@ -216,17 +220,21 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
   </a>
 </p>
 
-<!-- WakaTime card as backup if your direct SVG isn't working -->
+<!-- Added coding language distribution in donut form -->
 <p align="center">
-  <a href="https://wakatime.com/@XMostafaNashaatX">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=XMostafaNashaatX&layout=compact&theme=tokyonight&hide_border=true" width="70%" alt="WakaTime Stats" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XMostafaNashaatX&theme=tokyonight" width="48%" alt="Language Distribution" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XMostafaNashaatX&theme=tokyonight" width="48%" alt="Most Committed Languages" />
+</p>
+
+<!-- Added animated contribution heatmap -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XMostafaNashaatX&theme=tokyonight&utcOffset=3" width="48%" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=Glasses.AI&theme=tokyonight&hide_border=true" width="48%" alt="Featured Repository" />
 </p>
 
 ---
 
-## 📂 Projects Portfolio
-
+📂 Projects Portfolio
 <div align="center">
   <a href="#glasses-ai">
     <img src="https://img.shields.io/badge/Glasses.AI-Book%20Platform-blue?style=for-the-badge" alt="Glasses.AI" />
@@ -244,161 +252,135 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
     <img src="https://img.shields.io/badge/Music-Recommender-red?style=for-the-badge" alt="Music" />
   </a>
 </div>
-
-### 📚 Glasses.AI
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/007ACC/FFFFFF?text=Glasses.AI:+AI-Powered+Book+Platform" alt="Glasses.AI Project Banner" style="border-radius: 10px;" />
-</div>
-
-**AI-Powered Book Platform**
-
-An intelligent book recommendation platform that helps users discover new books based on their preferences and reading history.
-
-**Key Features:**
-- Full-stack web application built with Django, React, and SQL
-- KNN-based recommendation engine for personalized book suggestions
-- OAuth integration with Google, Facebook, and Spotify
-- Real-time music discovery based on book mood/theme
-- Secure payment processing with PayPal SDK
-
-**Technologies Used:**
-- **Backend:** Django, Python, SQL
-- **Frontend:** React, JavaScript, Tailwind CSS
-- **Authentication:** OAuth (Google, Facebook, Spotify)
-- **Payments:** PayPal API
-- **ML:** Scikit-learn (KNN Algorithm)
-
+📚 Glasses.AI
 <div align="center">
   <a href="https://github.com/XMostafaNashaatX/Glasses.AI">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=Glasses.AI&theme=tokyonight&hide_border=true" width="70%" alt="Glasses.AI Repository" />
   </a>
 </div>
+AI-Powered Book Platform
+An intelligent book recommendation platform that helps users discover new books based on their preferences and reading history.
+Key Features:
 
-### 🌐 GoBackN UDP Protocol Simulation
+Full-stack web application built with Django, React, and SQL
+KNN-based recommendation engine for personalized book suggestions
+OAuth integration with Google, Facebook, and Spotify
+Real-time music discovery based on book mood/theme
+Secure payment processing with PayPal SDK
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/FF6F61/FFFFFF?text=GoBackN+UDP+Protocol+Simulation" alt="GoBackN UDP Protocol Simulation Banner" style="border-radius: 10px;" />
-</div>
+Technologies Used:
 
-A Python-based implementation of the Go-Back-N protocol over UDP, demonstrating reliable data transmission in unreliable networks.
+Backend: Django, Python, SQL
+Frontend: React, JavaScript, Tailwind CSS
+Authentication: OAuth (Google, Facebook, Spotify)
+Payments: PayPal API
+ML: Scikit-learn (KNN Algorithm)
 
-**Key Features:**
-- Simulation of packet loss and corruption
-- Automatic retransmission of lost packets
-- Sliding window implementation for flow control
-- Detailed logging and performance metrics
-
-**Technologies Used:**
-- Python
-- Socket Programming
-- Network Protocols
-- Multi-threading
-
+🌐 GoBackN UDP Protocol Simulation
 <div align="center">
   <a href="https://github.com/XMostafaNashaatX/GoBackN-UDP-implementation">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=GoBackN-UDP-implementation&theme=tokyonight&hide_border=true" width="70%" alt="GoBackN UDP Repository" />
   </a>
 </div>
+A Python-based implementation of the Go-Back-N protocol over UDP, demonstrating reliable data transmission in unreliable networks.
+Key Features:
 
-### 📊 Risk Score Regression and Fraud Classification
+Simulation of packet loss and corruption
+Automatic retransmission of lost packets
+Sliding window implementation for flow control
+Detailed logging and performance metrics
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/6A5ACD/FFFFFF?text=Risk+Score+Regression+%26+Fraud+Classification" alt="Risk Score Project Banner" style="border-radius: 10px;" />
-</div>
+Technologies Used:
 
-A machine learning project focused on predicting risk scores and detecting fraudulent transactions using advanced ML techniques.
+Python
+Socket Programming
+Network Protocols
+Multi-threading
 
-**Key Features:**
-- Comparative analysis of multiple ML models:
-  - Logistic Regression
-  - Support Vector Machines (SVM)
-  - Gradient Boosting
-  - Random Forest
-- Hyperparameter optimization with Optuna
-- Class imbalance handling with SMOTE
-- Cross-validation for robust performance evaluation
-
-**Technologies Used:**
-- Python (Scikit-learn, Pandas, NumPy)
-- Optuna for hyperparameter tuning
-- SMOTE for handling imbalanced data
-- Data visualization (Matplotlib, Seaborn)
-
+📊 Risk Score Regression and Fraud Classification
 <div align="center">
   <a href="https://github.com/XMostafaNashaatX/risk_score_reg_fraud_class">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=risk_score_reg_fraud_class&theme=tokyonight&hide_border=true" width="70%" alt="Risk Score Repository" />
   </a>
 </div>
+A machine learning project focused on predicting risk scores and detecting fraudulent transactions using advanced ML techniques.
+Key Features:
 
-### 🩺 Diabetes Data Analysis
+Comparative analysis of multiple ML models:
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/28B463/FFFFFF?text=Diabetes+Data+Analysis" alt="Diabetes Data Analysis Banner" style="border-radius: 10px;" />
-</div>
+Logistic Regression
+Support Vector Machines (SVM)
+Gradient Boosting
+Random Forest
 
-A comprehensive statistical analysis of diabetes data to identify risk factors and potential intervention points.
 
-**Key Features:**
-- Hypothesis testing on various diabetes risk factors
-- Statistical modeling to quantify relationships
-- Advanced data visualization
-- Correlation analysis between different health metrics
+Hyperparameter optimization with Optuna
+Class imbalance handling with SMOTE
+Cross-validation for robust performance evaluation
 
-**Technologies Used:**
-- R (statistical programming)
-- Data visualization libraries
-- Statistical modeling techniques
-- Hypothesis testing frameworks
+Technologies Used:
 
+Python (Scikit-learn, Pandas, NumPy)
+Optuna for hyperparameter tuning
+SMOTE for handling imbalanced data
+Data visualization (Matplotlib, Seaborn)
+
+🩺 Diabetes Data Analysis
 <div align="center">
   <a href="https://github.com/XMostafaNashaatX/diabetes-data-analysis">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=Diabetes_data_analysis&theme=tokyonight&hide_border=true" width="70%" alt="Diabetes Analysis Repository" />
   </a>
 </div>
+A comprehensive statistical analysis of diabetes data to identify risk factors and potential intervention points.
+Key Features:
 
-### 🎵 Music Recommendation System
+Hypothesis testing on various diabetes risk factors
+Statistical modeling to quantify relationships
+Advanced data visualization
+Correlation analysis between different health metrics
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/E74C3C/FFFFFF?text=Music+Recommendation+System" alt="Music Recommendation System Banner" style="border-radius: 10px;" />
-</div>
+Technologies Used:
 
-An intelligent music recommendation system that suggests songs based on user preferences and listening history.
+R (statistical programming)
+Data visualization libraries
+Statistical modeling techniques
+Hypothesis testing frameworks
 
-**Key Features:**
-- SVM-based recommendation algorithm
-- Integration with Spotify API for real-time feature retrieval
-- User preference learning
-- Genre and mood-based filtering
-- Collaborative and content-based filtering techniques
-
-**Technologies Used:**'
-- Python
-- Scikit-learn (SVM)
-- Spotify API
-- Feature engineering
-- Web interface for user interaction
-
+🎵 Music Recommendation System
 <div align="center">
   <a href="https://github.com/XMostafaNashaatX/music-recommendation-system">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=MUSIC-RECOMMDATION-SYSTEM&theme=tokyonight&hide_border=true" width="70%" alt="Music Recommendation Repository" />
   </a>
 </div>
+An intelligent music recommendation system that suggests songs based on user preferences and listening history.
+Key Features:
 
----
+SVM-based recommendation algorithm
+Integration with Spotify API for real-time feature retrieval
+User preference learning
+Genre and mood-based filtering
+Collaborative and content-based filtering techniques
+
+Technologies Used:
+
+Python
+Scikit-learn (SVM)
+Spotify API
+Feature engineering
+Web interface for user interaction
 
 ## 📝 Research
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/3498DB/FFFFFF?text=Research+Publications" alt="Research Banner" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/Research-3498DB?style=for-the-badge&labelColor=2980B9" alt="Research"/>
 </div>
 
 ### Enhancements and Mathematical Foundations of the Adam Optimizer
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x300/3498DB/FFFFFF?text=Adam+Optimizer+Research" alt="Adam Optimizer Research" style="border-radius: 10px;" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Adam%20Optimizer&width=1000&height=100&fontSize=1" alt="Adam Optimizer Research" />
+  </a>
+</p>
 Co-authored a research paper analyzing Adam and its variants, focusing on theoretical improvements and practical applications.
 
 **Key Contributions:**
