@@ -5,7 +5,7 @@
 
 # Hi there, I'm Mostafa Nashaat 👋
 
-I'm a **Data Science & Artificial Intelligence** student at **Zewail City University of Science and Technology** (Expected June 2026). I have a strong foundation in machine learning, statistical analysis, and full-stack web development. I create data-driven, innovative solutions and love turning complex problems into actionable insights.
+I'm a **Data Science & Artificial Intelligence** student at **Zewail City University of Science and Technology** (Expected June 2026). I have a strong foundation in machine learning, statistical analysis, and full-stack development. Skilled at collaborating in a Computer Science environment and proficient in data processing and data visualization tools. Passionate about building innovative, data-driven solutions with a deep understanding of statistics.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-nashaat-32b7b4215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -42,29 +42,6 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
   <!-- Trophy Badge with colorful badges -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=XMostafaNashaatX&theme=radical&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 📈 My Coding Activity
-
-<p align="center">
-  <!-- More reliable contribution graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XMostafaNashaatX&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-  </a>
-</p>
-
-<!-- Replaced with a more reliable animated coding progress visualization -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XMostafaNashaatX&theme=radical" width="80%" alt="Contribution Summary" />
-</p>
-
-<!-- Added GitHub Skyline 3D contribution visualization reference -->
-<p align="center">
-  <a href="https://skyline.github.com/XMostafaNashaatX/2024">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20Your%203D%20Contribution%20Graph-blue?style=for-the-badge&logo=github" alt="GitHub Skyline" />
   </a>
 </p>
 
@@ -109,38 +86,28 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
 *Jun 2024 – Oct 2024*
 - Taught over 100 students (ages 10–15) programming fundamentals, game development (Godot), and Python for AI
 - Developed tailored lesson plans to foster logical thinking, problem-solving, and collaboration
-- Created interactive coding challenges to maintain student engagement and track learning progress
 
 ### 🤖 CodeAlpha — Machine Learning Intern
 *Mar 2024 – May 2024*
 - Developed machine learning models achieving over 90% accuracy on real-world datasets
 - Utilized Optuna for hyperparameter tuning and SMOTE to address class imbalance
 - Implemented data processing pipelines to streamline model training
-- Collaborated with senior data scientists to optimize algorithm performance
 
 ### 📱 Vodafone UK — Account Advisor
 *Jun 2023 – Mar 2024*
 - Resolved customer queries resulting in a 15% improvement in satisfaction metrics
 - Collaborated with team members to enhance service delivery
-- Utilized CRM systems to track customer interactions and identify improvement opportunities
 
 ### 📚 Full Marks in Chemistry — Teaching Assistant
 *Oct 2022 – Jun 2023*
-- Assisted in developing instructional materials and assessments
-- Provided one-on-one support to students struggling with complex chemistry concepts
-- Facilitated laboratory sessions and monitored student progress
 
 ### 📞 Teletarget — Telemarketer
 *Jul 2022 – Jun 2023*
-- Generated leads and converted prospects through effective communication strategies
-- Maintained detailed records of customer interactions and sales outcomes
-- Consistently met and exceeded monthly sales targets
 
 ### ☀️ Outsource Giants — Senior Sales Team Lead
 *Jun 2021 – Nov 2021*
 - Led a team of 5+ agents in solar panel sales, surpassing targets by 25%
 - Coordinated with colleagues to optimize sales strategies
-- Conducted training sessions for new team members to improve performance
 
 ---
 
@@ -165,20 +132,38 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/XGBoost-76B900?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-3499CD?style=for-the-badge" alt="LightGBM" />
   <img src="https://img.shields.io/badge/Optuna-2E71D0?style=for-the-badge" alt="Optuna" />
   <img src="https://img.shields.io/badge/CNNs-6236FF?style=for-the-badge" alt="CNNs" />
   <img src="https://img.shields.io/badge/RNNs-00FFFF?style=for-the-badge" alt="RNNs" />
   <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge" alt="Transformers" />
+  <img src="https://img.shields.io/badge/SVMs-FFA500?style=for-the-badge" alt="SVMs" />
   <img src="https://img.shields.io/badge/GANs-FF69B4?style=for-the-badge" alt="GANs" />
   <img src="https://img.shields.io/badge/NLP-1ABC9C?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/SMOTE-9370DB?style=for-the-badge" alt="SMOTE" />
+  <img src="https://img.shields.io/badge/BM25-FF4500?style=for-the-badge" alt="BM25" />
+  <img src="https://img.shields.io/badge/Query_Expansion-4169E1?style=for-the-badge" alt="Query Expansion" />
+  <img src="https://img.shields.io/badge/Information_Retrieval-008080?style=for-the-badge" alt="Information Retrieval" />
+  
+  <!-- Explainable AI -->
+  <h3>Explainable AI (XAI)</h3>
+  <img src="https://img.shields.io/badge/LIME-00BFFF?style=for-the-badge" alt="LIME" />
+  <img src="https://img.shields.io/badge/SHAP-9932CC?style=for-the-badge" alt="SHAP" />
+  <img src="https://img.shields.io/badge/Grad_CAM-FF6347?style=for-the-badge" alt="Grad-CAM" />
+  <img src="https://img.shields.io/badge/DeepDream-4B0082?style=for-the-badge" alt="DeepDream" />
+  <img src="https://img.shields.io/badge/Model_Interpretability-20B2AA?style=for-the-badge" alt="Model Interpretability" />
   
   <!-- Data Science -->
   <h3>Data Science Tools</h3>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/NLTK-FF1493?style=for-the-badge" alt="NLTK" />
+  <img src="https://img.shields.io/badge/PyTerrier-800000?style=for-the-badge" alt="PyTerrier" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/LLM_APIs-7B68EE?style=for-the-badge" alt="LLM APIs" />
 
   <!-- Web Development -->
   <h3>Web Development</h3>
@@ -198,176 +183,85 @@ I'm a **Data Science & Artificial Intelligence** student at **Zewail City Univer
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  
+  <!-- Other Skills -->
+  <h3>Other Skills</h3>
+  <img src="https://img.shields.io/badge/Data_Processing-6A5ACD?style=for-the-badge" alt="Data Processing" />
+  <img src="https://img.shields.io/badge/Data_Visualization-228B22?style=for-the-badge" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Data_Analysis-4682B4?style=for-the-badge" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Search_Engine_Development-B22222?style=for-the-badge" alt="Search Engine Development" />
+  <img src="https://img.shields.io/badge/Statistics-483D8B?style=for-the-badge" alt="Statistics" />
 </div>
 
 ---
 
-## 📊 Coding Metrics
+## 📂 Projects Portfolio
 
-<!-- Fixed GitHub metrics with proper height and width -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=XMostafaNashaatX&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XMostafaNashaatX&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=XMostafaNashaatX&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-  </a>
-</p>
-
-<!-- Added coding language distribution in donut form -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XMostafaNashaatX&theme=tokyonight" width="48%" alt="Language Distribution" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XMostafaNashaatX&theme=tokyonight" width="48%" alt="Most Committed Languages" />
-</p>
-
-<!-- Added animated contribution heatmap -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XMostafaNashaatX&theme=tokyonight&utcOffset=3" width="48%" alt="Productive Time" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=Glasses.AI&theme=tokyonight&hide_border=true" width="48%" alt="Featured Repository" />
-</p>
-
----
-
-📂 Projects Portfolio
-<div align="center">
-  <a href="#glasses-ai">
-    <img src="https://img.shields.io/badge/Glasses.AI-Book%20Platform-blue?style=for-the-badge" alt="Glasses.AI" />
-  </a>
-  <a href="#gobackn-udp-protocol-simulation">
-    <img src="https://img.shields.io/badge/GoBackN-UDP%20Protocol-orange?style=for-the-badge" alt="GoBackN" />
-  </a>
-  <a href="#risk-score-regression-and-fraud-classification">
-    <img src="https://img.shields.io/badge/Risk%20Score-ML%20Project-purple?style=for-the-badge" alt="Risk Score" />
-  </a>
-  <a href="#diabetes-data-analysis">
-    <img src="https://img.shields.io/badge/Diabetes-Data%20Analysis-green?style=for-the-badge" alt="Diabetes" />
-  </a>
-  <a href="#music-recommendation-system">
-    <img src="https://img.shields.io/badge/Music-Recommender-red?style=for-the-badge" alt="Music" />
-  </a>
-</div>
-📚 Glasses.AI
+### 📚 Glasses.AI — AI-Powered Book Platform
 <div align="center">
   <a href="https://github.com/XMostafaNashaatX/Glasses.AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=Glasses.AI&theme=tokyonight&hide_border=true" width="70%" alt="Glasses.AI Repository" />
   </a>
 </div>
-AI-Powered Book Platform
-An intelligent book recommendation platform that helps users discover new books based on their preferences and reading history.
-Key Features:
 
-Full-stack web application built with Django, React, and SQL
-KNN-based recommendation engine for personalized book suggestions
-OAuth integration with Google, Facebook, and Spotify
-Real-time music discovery based on book mood/theme
-Secure payment processing with PayPal SDK
+- Full-stack web app using **Django**, React, **SQL**, and PayPal API; includes a **KNN-based recommendation engine**
+- Integrated OAuth with Google, Facebook, and Spotify for authentication and real-time music discovery
 
-Technologies Used:
+### 🥗 NutriQuest — Nutrition and Fitness Information Retrieval System
+<div align="center">
+  <a href="https://github.com/XMostafaNashaatX/Nurtri_Quest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=Nurtri_Quest&theme=tokyonight&hide_border=true" width="70%" alt="NutriQuest Repository" />
+  </a>
+</div>
 
-Backend: Django, Python, SQL
-Frontend: React, JavaScript, Tailwind CSS
-Authentication: OAuth (Google, Facebook, Spotify)
-Payments: PayPal API
-ML: Scikit-learn (KNN Algorithm)
+- Developed an **information retrieval system** using **Streamlit**, focusing on nutrition and fitness content
+- Implemented advanced search algorithms (**BM25**, **TF-IDF**) and **query expansion techniques** using **PyTerrier**
+- Integrated an AI chatbot using **OpenRouter API** with multiple LLM options to answer user queries
+- Created metrics for search evaluation: precision, recall, F1-score, and **NDCG**
+- Built data processing pipelines with **NLTK** for text preprocessing and augmented the dataset with multi-source content
 
-🌐 GoBackN UDP Protocol Simulation
+### 🛣️ Road Anomaly Detection — Real-Time Computer Vision System
+<div align="center">
+  <a href="https://github.com/XMostafaNashaatX/Yolo_Road_anomly_detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=Yolo_Road_anomly_detection&theme=tokyonight&hide_border=true" width="70%" alt="Road Anomaly Detection Repository" />
+  </a>
+</div>
+
+- Developed a real-time road anomaly detection system using **YOLOv8** for **object detection** and Flask for backend deployment
+- Built a responsive web interface for live camera-based detection of potholes, cracks, vehicles, and other anomalies
+- Trained the model on the RadRoad Anomaly Detection dataset, leveraging **data augmentation** and **transfer learning**
+- Deployed the solution as a full-stack application, supporting both desktop and mobile browsers
+
+### 🌐 GoBackN UDP Protocol Simulation
 <div align="center">
   <a href="https://github.com/XMostafaNashaatX/GoBackN-UDP-implementation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=GoBackN-UDP-implementation&theme=tokyonight&hide_border=true" width="70%" alt="GoBackN UDP Repository" />
   </a>
 </div>
-A Python-based implementation of the Go-Back-N protocol over UDP, demonstrating reliable data transmission in unreliable networks.
-Key Features:
 
-Simulation of packet loss and corruption
-Automatic retransmission of lost packets
-Sliding window implementation for flow control
-Detailed logging and performance metrics
+- Python-based implementation of the Go-Back-N protocol over UDP, demonstrating reliable data transmission in unreliable networks
+- Simulation of packet loss and corruption with automatic retransmission of lost packets
+- Sliding window implementation for flow control with detailed logging and performance metrics
 
-Technologies Used:
-
-Python
-Socket Programming
-Network Protocols
-Multi-threading
-
-📊 Risk Score Regression and Fraud Classification
+### 🩺 Diabetes Data Analysis
 <div align="center">
-  <a href="https://github.com/XMostafaNashaatX/risk_score_reg_fraud_class">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=risk_score_reg_fraud_class&theme=tokyonight&hide_border=true" width="70%" alt="Risk Score Repository" />
-  </a>
-</div>
-A machine learning project focused on predicting risk scores and detecting fraudulent transactions using advanced ML techniques.
-Key Features:
-
-Comparative analysis of multiple ML models:
-
-Logistic Regression
-Support Vector Machines (SVM)
-Gradient Boosting
-Random Forest
-
-
-Hyperparameter optimization with Optuna
-Class imbalance handling with SMOTE
-Cross-validation for robust performance evaluation
-
-Technologies Used:
-
-Python (Scikit-learn, Pandas, NumPy)
-Optuna for hyperparameter tuning
-SMOTE for handling imbalanced data
-Data visualization (Matplotlib, Seaborn)
-
-🩺 Diabetes Data Analysis
-<div align="center">
-  <a href="https://github.com/XMostafaNashaatX/diabetes-data-analysis">
+  <a href="https://github.com/XMostafaNashaatX/Diabetes_data_analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=Diabetes_data_analysis&theme=tokyonight&hide_border=true" width="70%" alt="Diabetes Analysis Repository" />
   </a>
 </div>
-A comprehensive statistical analysis of diabetes data to identify risk factors and potential intervention points.
-Key Features:
 
-Hypothesis testing on various diabetes risk factors
-Statistical modeling to quantify relationships
-Advanced data visualization
-Correlation analysis between different health metrics
+- Performed **hypothesis testing**, **statistical modeling**, and **data visualization** using R
 
-Technologies Used:
-
-R (statistical programming)
-Data visualization libraries
-Statistical modeling techniques
-Hypothesis testing frameworks
-
-🎵 Music Recommendation System
+### 🎵 Music Recommendation System
 <div align="center">
-  <a href="https://github.com/XMostafaNashaatX/music-recommendation-system">
+  <a href="https://github.com/XMostafaNashaatX/MUSIC-RECOMMDATION-SYSTEM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XMostafaNashaatX&repo=MUSIC-RECOMMDATION-SYSTEM&theme=tokyonight&hide_border=true" width="70%" alt="Music Recommendation Repository" />
   </a>
 </div>
-An intelligent music recommendation system that suggests songs based on user preferences and listening history.
-Key Features:
 
-SVM-based recommendation algorithm
-Integration with Spotify API for real-time feature retrieval
-User preference learning
-Genre and mood-based filtering
-Collaborative and content-based filtering techniques
+- Developed an **SVM-based** music recommender with Spotify API integration for real-time **feature extraction**
 
-Technologies Used:
-
-Python
-Scikit-learn (SVM)
-Spotify API
-Feature engineering
-Web interface for user interaction
+---
 
 ## 📝 Research
 
@@ -381,22 +275,23 @@ Web interface for user interaction
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Adam%20Optimizer&width=1000&height=100&fontSize=1" alt="Adam Optimizer Research" />
   </a>
 </p>
-Co-authored a research paper analyzing Adam and its variants, focusing on theoretical improvements and practical applications.
 
-**Key Contributions:**
-- Analytical comparison of Adam variants (AMSGrad, AdaBound, AdamW)
-- Theoretical exploration of convergence guarantees
-- Analysis of regularization techniques
-- Experimental evaluation of:
-  - Convergence speed
-  - Loss minimization efficiency
-  - Generalization capabilities
+- Co-authored a research paper analyzing **Adam** and its variants: **AMSGrad**, **AdaBound**, **AdamW**
+- Discussed theoretical improvements, **convergence guarantees**, and differences in **regularization techniques**
+- Conducted experiments evaluating convergence speed, loss minimization, and generalization
+- [Read Paper](https://drive.google.com/file/d/1mA1WzRUzbailcMXOVIdd8aB1FX92Exaq/view?usp=drive_link)
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1mA1WzRUzbailcMXOVIdd8aB1FX92Exaq/view">
-    <img src="https://img.shields.io/badge/Read%20Paper-34495E?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Read Paper" />
+### Meta-Analysis of Real-Time Threat Detection via Explainable Multimodal Analysis of Facial and Vocal Cues
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Threat%20Detection&width=1000&height=100&fontSize=1" alt="Threat Detection Research" />
   </a>
-</div>
+</p>
+
+- Co-authored a comprehensive meta-analysis on **explainable AI** for real-time threat detection using facial and vocal cues
+- Implemented and compared 12 state-of-the-art models, focusing on **model explainability**, performance, and deployment challenges
+- Analyzed the effectiveness of **multimodal fusion**, **attention mechanisms**, and explainability techniques (**LIME**, **SHAP**, **Grad-CAM**, **DeepDream**)
+- Full paper available upon request or as PDF attachment
 
 ---
 
